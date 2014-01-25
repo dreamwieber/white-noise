@@ -1,0 +1,1 @@
+This app generates the sound of white noise
