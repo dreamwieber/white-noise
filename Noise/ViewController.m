@@ -64,7 +64,7 @@
     }];
     
     // Turn down the volume on the channel, so the noise isn't too loud
-    [noiseChannel setVolume:.35];
+    [noiseChannel setVolume:.05];
     
     // Add the channel to the audio controller
     [self.audioController addChannels:@[noiseChannel]];
